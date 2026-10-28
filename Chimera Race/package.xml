@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Chimera Race</title>
+  <id>Chimer.Race.modid</id>
+  <author>TwilightEcho</author>
+  <loadPriority>100</loadPriority>
+  <version>0.23.356</version>
+  <tags></tags>
+  <description></description>
+  <builtin>false</builtin>
+  <visibility>Private</visibility>
+</Meta>
