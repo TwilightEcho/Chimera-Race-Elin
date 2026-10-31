@@ -1,4 +1,8 @@
 {
+  "SourceJob.chimerajob.detail": "You are the Apex Predator. Adapt. Survive. Evolve. +30% Spell Damage, +50% Mana, -5% Life.",
+  "SourceJob.chimerajob.name": "Apex Predator",
   "SourceRace.Chimerarace.detail": "A miscreation. Something that should not have been made. Combined of several parts of monsters, it's body is held together by an arcane core.",
-  "SourceRace.Chimerarace.name": "Chimera"
+  "SourceRace.Chimerarace.name": "Chimera",
+  "SourceRace.Kitsunerace.detail": "An ancient Kitsune, predating the Mifu and Nefu. Rarely ever seen these days, as they prefer to remain hidden on the moon since the mortals took to mining the ether from the forests. Physically incredibly fragile, due to their desire to remain incorporeal, but magically devastating.",
+  "SourceRace.Kitsunerace.name": "Kitsune"
 }
