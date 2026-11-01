@@ -9,3 +9,5 @@ Neither races are balanced, they were made by me for roleplaying, Chimera is bas
 Kitsune is similar, still very overpowered, 1 hp race with excessive magical power, based on Kitsune Mythology (Moonlit Kin, etc.) and heavy magic focus.
 
 The unique jobs just finish off their kit.
+
+KitsuneStaringSpell adds Spear of the Moonlight (with 0 charges, since I use unlimited spells) to the Celeestial Traveler job (for Kitsune)
