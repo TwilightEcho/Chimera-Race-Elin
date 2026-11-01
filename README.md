@@ -10,4 +10,4 @@ Kitsune is similar, still very overpowered, 1 hp race with excessive magical pow
 
 The unique jobs just finish off their kit.
 
-KitsuneStaringSpell adds Spear of the Moonlight (with 0 charges, since I use unlimited spells) to the Celeestial Traveler job (for Kitsune, it goes inside the BepinEX/Plugins folder.)
+KitsuneStaringSpell adds Spear of the Moonlight (with 0 charges, since I use unlimited spells) to the Celestial Traveler job (for Kitsune, it goes inside the BepinEX/Plugins folder.)
